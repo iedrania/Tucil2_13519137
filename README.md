@@ -5,8 +5,9 @@ Program ini menerima file teks berisi daftar kode matkul sesuai dengan format da
 
 ## Cara Pakai
 1. Pindahkan salah satu file input dari test ke src
-2. Ubah nama file input menjadi "input.txt"
-3. Run tucil2_13519137.py menggunakan Python
+2. Untuk menggunakan file input lain, pastikan format pada file sama dengan file yang disediakan
+3. Ubah nama file input menjadi "input.txt"
+4. Run tucil2_13519137.py menggunakan Python
 
 ## Author
 Siti Iedrania Azzariyat Akbar
